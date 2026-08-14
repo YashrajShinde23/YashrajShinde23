@@ -34,10 +34,10 @@
   * *Add 1–2 lines here — is this a collection of smaller projects? List 2–3 highlights.*
 
 - ⚽ [Football_Match_Insights_EDA](https://github.com/YashrajShinde23/Football_Match_Insights_EDA)
-● Developed a machine learning model to predict football match outcomes (Win/Draw/Loss).
-● Conducted data preprocessing, feature engineering, and exploratory data analysis (EDA).
-● Trained and evaluated classification algorithms using accuracy metrics and confusion matrix.
-● Visualized key insights to interpret predictive performance
+- ● Developed a machine learning model to predict football match outcomes (Win/Draw/Loss).
+- ● Conducted data preprocessing, feature engineering, and exploratory data analysis (EDA).
+- ● Trained and evaluated classification algorithms using accuracy metrics and confusion matrix.
+- ● Visualized key insights to interpret predictive performance
 
 ---
 
