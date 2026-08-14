@@ -27,11 +27,17 @@
 
 ## 📂 Featured Projects
 
-- 📊 [DATA_SCIENCE](https://github.com/YashrajShinde23/DATA_SCIENCE)
-  * *Add 1–2 lines here — what does this repo cover? Notebooks, techniques used, key takeaway.*
+- 🛍️ [Company-Sales-Prediction-DecisionTree-RandomForest](https://github.com/YashrajShinde23/Company-Sales-Prediction-DecisionTree-RandomForest)
 
-- 🐍 [DATA_SCIENCE_PROJECTS](https://github.com/YashrajShinde23/DATA_SCIENCE_PROJECTS)
-  * *Add 1–2 lines here — is this a collection of smaller projects? List 2–3 highlights.*
+  * Converted continuous Sales data into a categorical High/Low target and built Decision Tree and Random Forest classifiers to predict sales performance.
+  * Compared model accuracy (Decision Tree: 70%, Random Forest: 85%) and evaluated results using a classification report.
+  * Identified key business drivers of sales — Price, Age, Competitor Price, Population, and Advertising — via Random Forest feature importance.
+
+- 🦁 [Zoo-Animal-Classification-KNN](https://github.com/YashrajShinde23/Zoo-Animal-Classification-KNN)
+
+  * Built a K-Nearest Neighbors classifier to predict an animal's biological type from 16 physical and behavioral attributes.
+  * Performed EDA using histograms, boxplots, and pairplots to understand feature distributions and relationships.
+  * Achieved ~95% test accuracy and tuned the K value (3–29) to identify the most robust model.
 
 - ⚽ [Football_Match_Insights_EDA](https://github.com/YashrajShinde23/Football_Match_Insights_EDA)
 
