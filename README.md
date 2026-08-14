@@ -9,9 +9,9 @@
 
 ## 🌟 About Me
 
-🎯 **Aspiring Data Analyst & Data Scientist** with a background in QA Automation and proven success in **Data Analysis, SQL, Python, and Power BI**.
-💡 Skilled at **building predictive models, designing dashboards, and generating actionable business insights** with 80%+ model accuracy in projects.
-📊 Passionate about applying data-driven approaches to solve **real-world business problems**.
+🎯 **Aspiring Data Analyst & Data Scientist** with a background in QA Automation and proven success in **Data Analysis, SQL, Python, and Power BI**.*
+*💡 Skilled at **building predictive models, designing dashboards, and generating actionable business insights** with 80%+ model accuracy in projects.*
+*📊 Passionate about applying data-driven approaches to solve **real-world business problems**.*
 
 ---
 
