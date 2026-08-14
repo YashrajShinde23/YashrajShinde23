@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 About Me
- 
+
 🎯 **Aspiring Data Analyst & Data Scientist** with a background in QA Automation and proven success in **Data Analysis, SQL, Python, and Power BI**.  
 💡 Skilled at **building predictive models, designing dashboards, and generating actionable business insights** with 80%+ model accuracy in projects.  
 📊 Passionate about applying data-driven approaches to solve **real-world business problems**.
@@ -34,10 +34,11 @@
   * *Add 1–2 lines here — is this a collection of smaller projects? List 2–3 highlights.*
 
 - ⚽ [Football_Match_Insights_EDA](https://github.com/YashrajShinde23/Football_Match_Insights_EDA)
-* *Developed a machine learning model to predict football match outcomes (Win/Draw/Loss).*
-* *Conducted data preprocessing, feature engineering, and exploratory data analysis (EDA).*
-* *Trained and evaluated classification algorithms using accuracy metrics and confusion matrix.*
-* *Visualized key insights to interpret predictive performance*
+
+  * Developed a machine learning model to predict football match outcomes (Win/Draw/Loss).
+  * Conducted data preprocessing, feature engineering, and exploratory data analysis (EDA).
+  * Trained and evaluated classification algorithms using accuracy metrics and confusion matrix.
+  * Visualized key insights to interpret predictive performance
 
 ---
 
