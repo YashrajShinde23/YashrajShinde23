@@ -44,7 +44,13 @@
 
 ## 📜 Certifications
 
-*(Add any certifications — Coursera, Udemy, bootcamps, etc., or delete this section if none yet)*
+- 🏅 **Data Analytics Job Simulation – Deloitte (Forage)** — *January 2026*
+  * Completed practical industry-based simulation tasks in Data Analysis and Forensic Technology.
+  * Worked on real-world business scenarios involving data interpretation and analytical reporting.
+
+- 🤖 **Advanced Training Program in Data Science & Artificial Intelligence – AIGenius LLP** — *July 2025*
+  * Completed 6-month industry-focused training in Machine Learning, Deep Learning, and Model Deployment.
+  * Gained hands-on experience in regression, classification, clustering, ensemble methods, and model deployment using Flask & FastAPI.
 
 ---
 
